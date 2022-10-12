@@ -10,3 +10,7 @@ User-Interface:
 
 Search Bar:
 ![screenshot from 2022-09-23 21-13-23](https://user-images.githubusercontent.com/110757279/192000798-5a8b469a-4c7c-484e-a4ba-45fcf5238005.png)
+ 
+ Project info:
+ https://www.loom.com/share/47f683224dbe4683b59fc418a1fb81cb
+ 
